@@ -7,7 +7,7 @@ const spheres = [];
 let rod;
 
 let progress;
-const progressSpeed = 2;
+const progressSpeed = 0.5;
 const maxProgress = 100;
 
 (function run() {
